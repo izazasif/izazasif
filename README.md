@@ -37,20 +37,63 @@ Distributed multi-model image classification system that routes inference reques
 Edge-IoT platform for real-time crop recommendations using Random Forest with soil-moisture-aware post-processing. Co-authored an IEEE-format conference report on this work with two classmates.
 `Python` `Edge/IoT` `Machine Learning`
 
+### Phishing & Spam Detection Chatbot
+*[Add a 1-2 line description here — what it detects, how (NLP/ML model, rules-based, etc.), and how a user interacts with it]*
+`Python` `Machine Learning` `NLP`
+
 ## Core Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,fastapi,docker,kubernetes,aws,redis,mongodb,git" />
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,js,cs,php,rust,bash,linux,docker,kubernetes,aws,kafka,redis,mysql,postgres,mongodb,git" />
+
+<br/><br/>
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_DB-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+
+<br/><br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge)
+
 </div>
 
 <br/>
 
 | Area | Tools |
 |---|---|
-| Languages/Frameworks | Python, FastAPI |
-| Infrastructure | Docker, Kubernetes, AWS (EKS, EC2, IAM) |
-| Security | SIEM/SOC tooling, MITRE ATT&CK, NIST, OWASP |
-| ML | Model deployment, distributed inference systems |
+| Languages | Python, JavaScript, C#, Rust, PHP, Bash |
+| Frameworks/ML | FastAPI, PyTorch |
+| Infrastructure | Linux, Docker, Kubernetes, AWS (EKS, EC2, IAM), Oracle VirtualBox |
+| Data | Kafka, Redis, MySQL, PostgreSQL, MongoDB, Vector DBs |
+| AI Tooling | Claude, GitHub Copilot |
+| Security | Kali Linux, Nmap, Wireshark, SIEM/SOC tooling, MITRE ATT&CK, NIST, OWASP |
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=izazasif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=izazasif&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izazasif&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=izazasif&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/izazasif/izazasif/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+**FIFA Volunteer** — *[Add tournament/year, e.g. "FIFA World Cup Qatar 2022"]*
+*[Add a line on your role — e.g. accreditation, media ops, logistics, fan support]*
 
 ## Education
 
